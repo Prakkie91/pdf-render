@@ -9,10 +9,6 @@
   "engines": {
     "node": "8.x.x"
   },
-  "scripts": {
-    "start": "index.js",
-    "lint": "eslint ."
-  },
   "dependencies": {
     "bluebird": "^3.5.0",
     "body-parser": "^1.18.2",
