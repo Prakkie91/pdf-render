@@ -5,6 +5,9 @@
   "author": {
     "name": ""
   },
+  "scripts": {
+    "start": "node index"
+  },
   "main": "index.js",
   "engines": {
     "node": "8.x.x"
