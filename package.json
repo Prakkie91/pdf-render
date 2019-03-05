@@ -1,7 +1,10 @@
 {
-  "name": "url-to-pdf-api",
-  "version": "1.0.0",
-  "description": "Web page PDF rendering done right. Packaged to an easy API.",
+  "name": "PdfRender",
+  "version": "0.0.0",
+  "description": "PdfRender",
+  "author": {
+    "name": ""
+  },
   "main": "src/index.js",
   "engines": {
     "node": "8.x.x"
@@ -11,16 +14,6 @@
     "test": "mocha --timeout 10000 && npm run lint",
     "lint": "eslint ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alvarcarto/url-to-pdf-api.git"
-  },
-  "author": "Kimmo Brunfeldt",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alvarcarto/url-to-pdf-api/issues"
-  },
-  "homepage": "https://github.com/alvarcarto/url-to-pdf-api#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "body-parser": "^1.18.2",
