@@ -1,3 +1,6 @@
 C:\Users\Enrico\Desktop\url-to-pdf-api-master\src\obj\Debug\PdfRender.njsprojAssemblyReference.cache
 C:\Users\Enrico\Desktop\url-to-pdf-api-master\src\obj\Debug\PdfRender.njsproj.CoreCompileInputs.cache
 C:\Users\Enrico\Desktop\url-to-pdf-api-master\src\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Enrico\Documents\pdf-render\obj\Debug\PdfRender.njsprojAssemblyReference.cache
+C:\Users\Enrico\Documents\pdf-render\obj\Debug\PdfRender.njsproj.CoreCompileInputs.cache
+C:\Users\Enrico\Documents\pdf-render\bin\Microsoft.NodejsTools.WebRole.dll
