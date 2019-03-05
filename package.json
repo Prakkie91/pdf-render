@@ -5,13 +5,12 @@
   "author": {
     "name": ""
   },
-  "main": "src/index.js",
+  "main": "index.js",
   "engines": {
     "node": "8.x.x"
   },
   "scripts": {
-    "start": "nodemon --watch ./src -e js src/index.js",
-    "test": "mocha --timeout 10000 && npm run lint",
+    "start": "index.js",
     "lint": "eslint ."
   },
   "dependencies": {
